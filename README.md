@@ -27,7 +27,7 @@ Gantilah `nama_program_anda` dengan nama yang diinginkan untuk program eksekutif
 Setelah dikompilasi, jalankan program dengan:
 
 ```bash
-./nama_program_anda
+./gnomecpp
 ```
 
 ## Kontribusi
