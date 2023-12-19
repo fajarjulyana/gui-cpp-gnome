@@ -19,7 +19,7 @@ sudo apt-get install libgtk-3-dev
 Gunakan perintah berikut untuk mengompilasi program:
 
 ```bash
-g++ -o nama_program_anda kode_sumber_anda.cpp $(pkg-config --cflags --libs gtk+-3.0)
+g++ -o gnomec++ main.cpp $(pkg-config --cflags --libs gtk+-3.0)
 ```
 
 Gantilah `nama_program_anda` dengan nama yang diinginkan untuk program eksekutif Anda dan `kode_sumber_anda.cpp` dengan nama file sumber Anda.
