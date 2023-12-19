@@ -1,7 +1,7 @@
 # contoh aplikasi GUI GNOME sederhana menggunakan C++ dan GTK
 
 Proyek ini adalah contoh aplikasi GUI GNOME sederhana menggunakan C++ dan GTK.
-
+<img src="capture/capture.gif">
 ## Deskripsi
 
 Aplikasi ini dibuat dengan menggunakan toolkit GTK untuk membuat antarmuka pengguna grafis (GUI) sederhana pada lingkungan GNOME. Aplikasi ini mencakup pembuatan jendela, penambahan tombol, serta menangani sinyal-sinyal untuk memberikan respons terhadap interaksi pengguna.
